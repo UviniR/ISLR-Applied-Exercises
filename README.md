@@ -1,4 +1,4 @@
-# Applied Exercises of Chapter 03 🦑👩🏻‍💻
+# Applied Exercises of Chapter 02 📚
 
 
 This is a collection of notebooks to cover the IRLS applied exercises of the chapter 02 
