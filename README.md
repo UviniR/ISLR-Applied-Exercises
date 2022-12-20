@@ -1,4 +1,4 @@
-# An Introduction to Statistical Learning: With Applications in R 🦑
+# An Introduction to Statistical Learning: With Applications in R 🦑👩🏻‍💻
 
 
 This is a collection of notebooks to cover the applied exercises of the above book
@@ -15,4 +15,4 @@ So the repository will be updated frequently with my new learnings
 ```
 
 ***
-#### Swith the branches to play with different datasets 👩🏻‍💻
+#### Swith the branches to play with different chapters 📚  
