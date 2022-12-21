@@ -3,7 +3,7 @@
 
 This is a collection of notebooks to cover the IRLS applied exercises of the chapter 02 
 
- * This branch will cover ```Question 08``` ```Question 09``` and ```Question 01```
+ * This branch will cover ```Question 08``` ```Question 09``` and ```Question 10```
  
 
 ***
