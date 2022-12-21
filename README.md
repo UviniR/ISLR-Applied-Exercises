@@ -7,4 +7,4 @@ This is a collection of notebooks to cover the IRLS applied exercises of the cha
  
 
 ***
-#### Swith the branches to play with different chapters 📚  
+#### Swith the branches to play with different chapters 🕹   
